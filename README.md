@@ -1,4 +1,4 @@
-# 36 Sales Gaps Toolkit -- 13 Free Claude Code Skills
+# 36 Sales Gaps Toolkit: 13 Free Claude Code Skills
 
 Most B2B deals don't die from one bad meeting. They die from an accumulation of small, unnamed gaps: a stakeholder nobody mapped, a "soon" that never became a date, a margin nobody checked before signing. The 36 Sales Gaps framework names every one of them, in three categories, each with an exact mitigation. This toolkit turns that framework into 13 ready-to-run Claude Code skills.
 
@@ -14,7 +14,7 @@ Every deal review, discovery call debrief, or contract check has a right questio
 
 ## Why this is different from generic AI sales advice
 
-A prompt tells Claude to "review my deal" and returns advice that could apply to any business. This toolkit doesn't. Every skill is grounded in a named, tested framework: 36 specific gaps, each with a specific mitigation, several tied directly to the 8 Steps of the Repeatable Sale methodology used with 2,400+ B2B founders. There is no invented terminology and no generic checklist standing in for a real diagnostic -- you get the exact gap name, the exact question or move that closes it, and nothing else.
+A prompt tells Claude to "review my deal" and returns advice that could apply to any business. This toolkit doesn't. Every skill is grounded in a named, tested framework: 36 specific gaps, each with a specific mitigation, several tied directly to the 8 Steps of the Repeatable Sale methodology used with 2,400+ B2B founders. There is no invented terminology and no generic checklist standing in for a real diagnostic: you get the exact gap name, the exact question or move that closes it, and nothing else.
 
 ---
 
@@ -26,8 +26,8 @@ A prompt tells Claude to "review my deal" and returns advice that could apply to
 |---|---|
 | `/gap-scan` | **Flagship.** Score any live deal against all 36 gaps (Client, Team, Contract), rank by severity, return each with its mitigation. |
 | `/deal-autopsy` | For a closed-lost deal: identify the 1-3 real gaps that actually killed it, contrast with what the mitigation would have looked like. |
-| `/client-gap-check` | Deep-dive scorer using only the 20 Client Gaps -- for pipeline and deal reviews. |
-| `/team-gap-audit` | Internal readiness check using only the 7 Team Gaps -- run before you propose. |
+| `/client-gap-check` | Deep-dive scorer using only the 20 Client Gaps (for pipeline and deal reviews). |
+| `/team-gap-audit` | Internal readiness check using only the 7 Team Gaps (run before you propose). |
 | `/contract-gap-scanner` | Reviews a draft SOW or contract clause by clause against the 9 Contract Gaps. |
 
 ### Prevent (build the missing piece before it becomes a gap)
@@ -44,7 +44,7 @@ A prompt tells Claude to "review my deal" and returns advice that could apply to
 | Skill | What It Does |
 |---|---|
 | `/cost-of-inaction` | Generates a Step 4 "what happens if you do nothing?" question sequence for a specific deal. |
-| `/investment-conversation` | Generates a Step 6 script sequencing Time, then People, then Money -- never leading with price. |
+| `/investment-conversation` | Generates a Step 6 script sequencing Time, then People, then Money (never leading with price). |
 | `/starting-date-closer` | Converts a vague "soon" into a committed date. |
 | `/margin-guard` | Calculator and checklist: can this deal be won at an acceptable margin, or does scope need to change, or should you walk. |
 
@@ -52,13 +52,13 @@ A prompt tells Claude to "review my deal" and returns advice that could apply to
 
 ## The 36 Sales Gaps
 
-**🔥 Client Gaps (20)** -- everything you don't yet know about the buyer's world: their pain, their politics, their risk, their decision process.
+**🔥 Client Gaps (20)**: everything you don't yet know about the buyer's world: their pain, their politics, their risk, their decision process.
 
-**🎫 Team Gaps (7)** -- everything about your own readiness to actually win and deliver: urgency clarity, technical fit, experience, capacity.
+**🎫 Team Gaps (7)**: everything about your own readiness to actually win and deliver: urgency clarity, technical fit, experience, capacity.
 
-**📄 Contract Gaps (9)** -- everything on the paper: what's written down, what margin survives, what funding is confirmed.
+**📄 Contract Gaps (9)**: everything on the paper: what's written down, what margin survives, what funding is confirmed.
 
-Every gap has a name and an exact mitigation. Several tie directly to a specific step of the 8 Steps of the Repeatable Sale (Frustration, Cost of Inaction, Deliverables, Investment, Starting Date, Statement of Work) -- the skills name the step explicitly wherever it applies.
+Every gap has a name and an exact mitigation. Several tie directly to a specific step of the 8 Steps of the Repeatable Sale (Frustration, Cost of Inaction, Deliverables, Investment, Starting Date, Statement of Work): the skills name the step explicitly wherever it applies.
 
 ---
 
@@ -91,7 +91,7 @@ The 36 Sales Gaps is Strategy Sprints' own diagnostic framework, built to sit al
 
 ## Work with Strategy Sprints directly
 
-**Sprint Club** -- the paid community where these skills, and the rest of the Strategy Sprints skills library, live and get used every day.
+**Sprint Club**: the paid community where these skills, and the rest of the Strategy Sprints skills library, live and get used every day.
 
 [**www.strategysprints.com**](https://www.strategysprints.com)
 
